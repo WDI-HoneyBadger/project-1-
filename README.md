@@ -8,7 +8,7 @@
 ## How to play:
 - Two players, they write their name and then we can play a game of Tic Tac Toe.
 
-- you can see a message that tells me if I won, lost or tied.
+- you can see a message that tells me if I won, lost or no one wins.
 
 **Technologies Used:**
 - HTML,CSS AND JQUERY.
