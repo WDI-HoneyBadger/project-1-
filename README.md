@@ -15,3 +15,12 @@
 
 ## Link game:
 https://hananalshammary.github.io/project-1-/project1/project2.html
+
+
+## Sources:
+-https://www.w3schools.com/
+-https://sweetalert2.github.io/
+-https://giphy.com/reactions
+
+## thank you for
+Trevor,Jackie and Ghadeer.
