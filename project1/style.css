@@ -1,0 +1,132 @@
+html,
+body{
+  height: 100%;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: beige;
+  
+}
+/* .bor{
+  size: 40px;
+  width: 150px;
+} */
+
+
+
+#head{
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px;
+  position: relative;
+  width: 250px;
+  left: 475px;
+
+}
+
+
+.board{
+  width: 618px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  position: relative;
+  left: 300px;
+  justify-content: center;
+  cursor: url(cursor1.png) 4 12, auto;
+
+}
+
+
+.box{
+  width: 150px;
+  height: 150px;
+  border: 3px solid salmon;
+  font-size: 0px;
+}
+
+.box:hover{
+  background-color: aqua;
+}
+
+.imgone {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px;
+  width: 250px;
+  position: absolute;
+  top: 320px;
+  right: 30px;
+
+ 
+}
+
+.imgtwo {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px;
+  width: 150px;
+  position: absolute;
+  top: 300px;
+  right:950px;
+ 
+}
+
+.imgthree{
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px;
+  width: 250px;
+  position: absolute;
+  top: 70px;
+  right:950px;
+}
+
+.imgforth{
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px;
+  width: 250px;
+  position: absolute;
+  top: 70px;
+  right: 30px;
+  /* right:950px; */
+}
+
+.rest{
+  background-color: #008CBA;
+  border-radius: 50%;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  right:540px;
+  width: 150px;
+  height: 30px;
+  top: 600px;
+
+}
+
+.one{
+  margin: 50px;
+  margin-top: 10px;
+  color: navy;
+}
+
+.player-info{
+  margin: 50px;
+  position: absolute;
+  top:540px;
+  color: navy;
+}
+
+.two {
+  position: absolute;
+  top: 550px;
+  right: 120px;
+  color: navy;
+}
+.player-infoo {
+  position: absolute;
+  top: 580px;
+  right: 120px;
+  color: navy;
+}
+
