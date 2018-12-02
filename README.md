@@ -3,7 +3,7 @@
 
 ## How to play:
 
-![Tic Tac Toe img](https://www.google.com.sa/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9tNqbwoDfAhXJ-qQKHejBB4wQjRx6BAgBEAU&url=http%3A%2F%2Fcrystalclearfinances.com%2Fradio%2Ftic-tac-toe%2F&psig=AOvVaw2LSFJlf_rqRILKuiM9D514&ust=1543818459896010)
+![Tic Tac Toe img](http://crystalclearfinances.com/wp-content/uploads/2016/06/3526260-Hand-drawn-tic-tac-toe-game-isolated-on-white-Stock-Photo.jpg)
 
 ## How to play:
 - Two players, they write their name and then we can play a game of Tic Tac Toe.
