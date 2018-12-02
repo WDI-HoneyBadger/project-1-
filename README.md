@@ -12,3 +12,6 @@
 
 **Technologies Used:**
 - HTML,CSS AND JQUERY.
+
+## Link game:
+https://hananalshammary.github.io/project-1-/project1/project2.html
